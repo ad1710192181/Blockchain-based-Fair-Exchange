@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密_MarkupCompile.cache
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密_MarkupCompile.lref
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\bin\Debug\Playfair加解密.exe.config
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\bin\Debug\Playfair加解密.exe
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\bin\Debug\Playfair加解密.pdb
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密.g.resources
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密.Properties.Resources.resources
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密.exe
+C:\Users\Administrator\Desktop\可执行文件\Playfair加解密\Playfair加解密\obj\Debug\Playfair加解密.pdb

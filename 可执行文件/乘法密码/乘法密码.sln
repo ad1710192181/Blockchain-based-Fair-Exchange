@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "乘法密码", "乘法密码\乘法密码.csproj", "{E296EE22-853E-4711-9916-376D446889E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E296EE22-853E-4711-9916-376D446889E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E296EE22-853E-4711-9916-376D446889E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E296EE22-853E-4711-9916-376D446889E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E296EE22-853E-4711-9916-376D446889E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5430B78-428D-4603-B564-A31EBE87B9EA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<Window x:Class="维吉尼亚密码.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:维吉尼亚密码"
+        mc:Ignorable="d"
+        Title="维吉尼亚密码" Height="450" Width="800" Background="#FFB10380">
+    <Grid Background="#FF9513ED">
+        <Button Content="加密" HorizontalAlignment="Left" Height="78" Margin="51,50,0,0" VerticalAlignment="Top" Width="119" FontSize="20" Click="Button_Click"/>
+        <Button Content="解密" HorizontalAlignment="Left" Height="84" Margin="51,167,0,0" VerticalAlignment="Top" Width="119" FontSize="20" Click="Button_Click_1"/>
+        <Label Content="密钥" HorizontalAlignment="Left" Height="42" Margin="51,288,0,0" VerticalAlignment="Top" Width="119" FontSize="20"/>
+        <TextBox x:Name="密钥" HorizontalAlignment="Left" Height="62" Margin="51,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="明文" HorizontalAlignment="Left" Height="347" Margin="236,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <TextBox x:Name="密文" HorizontalAlignment="Left" Height="347" Margin="514,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" Background="White"/>
+        <Label Content="明文" HorizontalAlignment="Left" Height="35" Margin="236,10,0,0" VerticalAlignment="Top" Width="168" FontSize="20"/>
+        <Label Content="密文" HorizontalAlignment="Left" Height="35" Margin="514,10,0,0" VerticalAlignment="Top" Width="172" FontSize="20"/>
+
+    </Grid>
+</Window>

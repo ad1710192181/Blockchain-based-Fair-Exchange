@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES密码体制", "DES密码体制\DES密码体制.csproj", "{A3B62137-DFC2-479E-AB0C-B4CC8829CB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B62137-DFC2-479E-AB0C-B4CC8829CB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B62137-DFC2-479E-AB0C-B4CC8829CB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B62137-DFC2-479E-AB0C-B4CC8829CB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B62137-DFC2-479E-AB0C-B4CC8829CB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE5252B-89F7-4077-8169-C1FEA98D5509}
+	EndGlobalSection
+EndGlobal

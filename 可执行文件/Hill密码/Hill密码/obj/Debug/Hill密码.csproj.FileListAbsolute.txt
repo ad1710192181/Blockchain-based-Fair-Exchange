@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\bin\Debug\Hill密码.exe.config
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\bin\Debug\Hill密码.exe
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\bin\Debug\Hill密码.pdb
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码_MarkupCompile.cache
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码_MarkupCompile.lref
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码.g.resources
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码.Properties.Resources.resources
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码.exe
+C:\Users\Administrator\Desktop\可执行文件\Hill密码\Hill密码\obj\Debug\Hill密码.pdb

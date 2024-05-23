@@ -1,0 +1,33 @@
+﻿<Window x:Class="DES密码体制.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DES密码体制"
+        mc:Ignorable="d"
+        Title="DES" Height="555.6" Width="1088">
+    <Grid Margin="0,0,-6.4,-30.4">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFDFFA09" Offset="0"/>
+                <GradientStop Color="#FFCD124F" Offset="1"/>
+                <GradientStop Color="#FFD5792F" Offset="0.553"/>
+                <GradientStop Color="#FFD5802C" Offset="0.519"/>
+                <GradientStop Color="#FFD69027" Offset="0.447"/>
+                <GradientStop Color="#FFD69924" Offset="0.407"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox x:Name="密文" HorizontalAlignment="Left" Height="393" Margin="791,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="230"/>
+        <TextBox x:Name="明文" HorizontalAlignment="Left" Height="388" Margin="36,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="239"/>
+        <Button x:Name="加密" Content="加密" HorizontalAlignment="Left" Height="85" Margin="310,71,0,0" VerticalAlignment="Top" Width="171" FontSize="36" Click="加密_Click"/>
+        <Button x:Name="解密" Content="解密" HorizontalAlignment="Left" Height="75" Margin="310,161,0,0" VerticalAlignment="Top" Width="171" FontSize="36" Click="解密_Click"/>
+        <TextBox x:Name="密钥" HorizontalAlignment="Left" Height="67" Margin="310,313,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171"/>
+        <Label Content="密钥" HorizontalAlignment="Left" Height="67" Margin="310,241,0,0" VerticalAlignment="Top" Width="171" FontSize="36"/>
+        <Label Content="明文" HorizontalAlignment="Left" Height="56" Margin="36,10,0,0" VerticalAlignment="Top" Width="192" FontSize="36"/>
+        <Label Content="密文" HorizontalAlignment="Left" Height="56" Margin="813,10,0,0" VerticalAlignment="Top" Width="230" FontSize="36"/>
+        <TextBox x:Name="过程框1" HorizontalAlignment="Left" Height="388" Margin="512,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="234"/>
+        <Label x:Name="过程框2" Content="过程" HorizontalAlignment="Left" Height="61" Margin="512,10,0,0" VerticalAlignment="Top" Width="234" FontSize="36"/>
+        <Button Content="清空" HorizontalAlignment="Left" Height="74" Margin="310,385,0,0" VerticalAlignment="Top" Width="171" FontSize="36" Click="Button_Click"/>
+
+    </Grid>
+</Window>

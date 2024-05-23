@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher_MarkupCompile.cache
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher_MarkupCompile.lref
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\bin\Debug\classcipher.exe.config
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\bin\Debug\classcipher.exe
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\bin\Debug\classcipher.pdb
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher.g.resources
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher.exe
+C:\Users\Administrator\Desktop\可执行文件\classcipher\classcipher\obj\Debug\classcipher.pdb

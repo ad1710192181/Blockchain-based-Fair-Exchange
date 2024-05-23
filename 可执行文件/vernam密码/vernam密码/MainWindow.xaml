@@ -1,0 +1,16 @@
+﻿<Window x:Class="vernam密码.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vernam密码"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFB2E791">
+        <TextBox x:Name="明文" HorizontalAlignment="Left" Height="283" Margin="66,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
+        <TextBox x:Name="密文" HorizontalAlignment="Left" Height="283" Margin="514,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="密钥" HorizontalAlignment="Left" Height="80" Margin="325,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155"/>
+        <Button Content="加密" HorizontalAlignment="Left" Height="90" Margin="325,97,0,0" VerticalAlignment="Top" Width="135" FontSize="24" Click="Button_Click"/>
+        <Button Content="解密" HorizontalAlignment="Left" Height="83" Margin="325,212,0,0" VerticalAlignment="Top" Width="135" FontSize="24" Click="Button_Click_1"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\bin\Debug\维吉尼亚.exe.config
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\bin\Debug\维吉尼亚.exe
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\bin\Debug\维吉尼亚.pdb
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚_MarkupCompile.cache
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚_MarkupCompile.lref
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚.g.resources
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚.Properties.Resources.resources
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚.exe
+C:\Users\Administrator\Desktop\维吉尼亚\维吉尼亚\obj\Debug\维吉尼亚.pdb

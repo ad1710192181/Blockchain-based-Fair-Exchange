@@ -1,0 +1,18 @@
+﻿<Window x:Class="Playfair加解密.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Playfair加解密"
+        mc:Ignorable="d"
+        Title="playfair" Height="450" Width="800">
+    <Grid Background="#FFF31072">
+        <TextBox x:Name="明文" HorizontalAlignment="Left" Height="310" Margin="36,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237"/>
+        <Button Content="加密" HorizontalAlignment="Left" Height="83" Margin="330,80,0,0" VerticalAlignment="Top" Width="170" FontSize="24" Click="Button_Click"/>
+        <Button Content="解密" HorizontalAlignment="Left" Height="78" Margin="330,168,0,0" VerticalAlignment="Top" Width="170" FontSize="24"/>
+        <TextBox x:Name="密文" HorizontalAlignment="Left" Height="310" Margin="536,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+        <TextBox x:Name="密钥" HorizontalAlignment="Left" Height="71" Margin="330,319,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label Content="密钥" HorizontalAlignment="Left" Height="63" Margin="330,251,0,0" VerticalAlignment="Top" Width="170" FontSize="24"/>
+
+    </Grid>
+</Window>
