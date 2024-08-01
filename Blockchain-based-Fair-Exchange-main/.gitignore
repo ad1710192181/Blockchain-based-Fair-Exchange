@@ -1,0 +1,8 @@
+.idea
+*.bin
+
+*.pk
+*.vk
+*.srs
+solidity/solidity_groth16.go
+solidity/solidity_plonk.go
